@@ -1,0 +1,18 @@
+Değerli Hocam 
+
+Öncelikle merhabalar. Proje süreci içerisinde elimden geldiğince anlattıgınız konulara uygun senaryolar geliştirmeye çalıştım. Proje bir konsol
+projesi olup diğer frameworklerde yeterli donanıma sahip olmadığımdan dolayı ağırlıklı olarak class yapıları kurmayı, referanslar vermeyi ve
+senaryoyu anladığım neticede doğru kurgulamaya çalıştım. Savaş dinamiğimi düzgün kuramadım (Algoritmasını kurgulayamadım) Bunun neticesinde
+sizlere ödevimi teslim etmek istiyorum. 
+
+Açıklamadaki Word Dökümanında Senaryoyu nasıl düşünerek nasıl kurguladığıma dair bilgileri sizler ile paylaşıyorum. Neticesinde umarın zaman
+ayırdığınıza değecek bir çalışma olmuştur.
+
+Bizler kattığınız tüm bilgiler için sizlere sonsuz teşekkürlerimi sunar, İyi günler dilerim
+
+Saygılarımla
+
+
+
+
+Berkay AKAR

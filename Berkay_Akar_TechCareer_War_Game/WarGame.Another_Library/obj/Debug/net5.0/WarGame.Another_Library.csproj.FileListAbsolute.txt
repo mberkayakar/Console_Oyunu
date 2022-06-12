@@ -1,0 +1,36 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\refint\WarGame.Another_Library.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\ref\WarGame.Another_Library.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.deps.json
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.csproj.AssemblyReference.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.AssemblyInfoInputs.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.AssemblyInfo.cs
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.csproj.CoreCompileInputs.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\refint\WarGame.Another_Library.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\ref\WarGame.Another_Library.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.deps.json
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\bin\Debug\net5.0\WarGame.Another_Library.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.csproj.AssemblyReference.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.AssemblyInfoInputs.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.AssemblyInfo.cs
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.csproj.CoreCompileInputs.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\refint\WarGame.Another_Library.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\WarGame.Another_Library.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame.Another_Library\obj\Debug\net5.0\ref\WarGame.Another_Library.dll

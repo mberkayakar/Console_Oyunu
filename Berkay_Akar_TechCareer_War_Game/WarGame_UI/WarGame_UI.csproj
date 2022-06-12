@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WarGame.Another_Library\WarGame.Another_Library.csproj" />
+    <ProjectReference Include="..\WarGame.Core\WarGame.Core.csproj" />
+    <ProjectReference Include="..\WarGame.Services\WarGame.Services.csproj" />
+  </ItemGroup>
+
+</Project>

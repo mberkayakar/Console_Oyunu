@@ -1,0 +1,90 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\refint\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.genruntimeconfig.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\ref\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CopyComplete
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.exe
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.deps.json
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.json
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.dev.json
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Entities.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Services.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Entities.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Services.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.AssemblyReference.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfoInputs.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfo.cs
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CoreCompileInputs.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CopyComplete
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\refint\WarGame_UI.dll
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.pdb
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.genruntimeconfig.cache
+D:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\ref\WarGame_UI.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.exe
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.deps.json
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.json
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.dev.json
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Core.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Entities.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Services.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Core.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Entities.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Services.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.AssemblyReference.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfoInputs.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfo.cs
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CoreCompileInputs.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CopyComplete
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\refint\WarGame_UI.dll
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.pdb
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.genruntimeconfig.cache
+E:\BootCamp Bitirme Ödevi\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\ref\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\refint\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame_UI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Services.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Another_Library.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\bin\Debug\net5.0\WarGame.Services.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\WarGame_UI.genruntimeconfig.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\BootCamp Wargame Klasörü (Berkay AKAR)\Berkay_Akar_TechCareer_War_Game\WarGame_UI\obj\Debug\net5.0\ref\WarGame_UI.dll

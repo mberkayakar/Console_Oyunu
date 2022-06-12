@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WarGame.Services/1.0.0": {
+        "dependencies": {
+          "WarGame.Another_Library": "1.0.0",
+          "WarGame.Core": "1.0.0"
+        },
+        "runtime": {
+          "WarGame.Services.dll": {}
+        }
+      },
+      "WarGame.Another_Library/1.0.0": {
+        "runtime": {
+          "WarGame.Another_Library.dll": {}
+        }
+      },
+      "WarGame.Core/1.0.0": {
+        "runtime": {
+          "WarGame.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WarGame.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WarGame.Another_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WarGame.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
