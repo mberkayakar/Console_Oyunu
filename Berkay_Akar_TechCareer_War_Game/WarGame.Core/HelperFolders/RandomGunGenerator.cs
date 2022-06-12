@@ -22,10 +22,7 @@ namespace WarGame.Core.HelperFolders
             new Poz_P400(), new Tara_T600()
         };
 
-
-
-
-
+          
 
 
         public static BaseWeaphoneRepository GenerateRandomGun()

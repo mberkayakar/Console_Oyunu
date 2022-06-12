@@ -13,9 +13,6 @@
         }
         public int number_of_reuses { get; set; }
         public int number_of_usability_per_iteration { get; set; }
-
-
-
-
+         
     }
 }

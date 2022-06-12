@@ -37,19 +37,19 @@ namespace WarGame_UI
             #endregion
 
             #region Yeni Bir Oyuncu Yaratma Süreci : 
-            //Console.WriteLine("Oyuna Başlamak için Öncelikle Bir oyuncu Yaratmanız gerekmetkedir. ");
-            //Console.WriteLine("\n");
-            //Console.WriteLine("Lütfen Bir Kullanıcı Adı Giriniz");
-            //string username = Console.ReadLine();
-            //Console.WriteLine("Lütfen Ad bilgisi giriniz");
-            //string name = Console.ReadLine();
-            //Console.WriteLine("Lütfen Soyad bilgisi giriniz");
-            //string surname = Console.ReadLine();
+            Console.WriteLine("Oyuna Başlamak için Öncelikle Bir oyuncu Yaratmanız gerekmetkedir. ");
+            Console.WriteLine("\n");
+            Console.WriteLine("Lütfen Bir Kullanıcı Adı Giriniz");
+            string username = Console.ReadLine();
+            Console.WriteLine("Lütfen Ad bilgisi giriniz");
+            string name = Console.ReadLine();
+            Console.WriteLine("Lütfen Soyad bilgisi giriniz");
+            string surname = Console.ReadLine();
 
-            //User character = user.CreateUser(username, name, surname);
-            //user.GetInformationToUserObject(character);
+            User character = userservice.CreateUser(username, name, surname);
+            userservice.GetInformationToUserObject(character);
 
-            //Console.WriteLine("\n \n ");
+            Console.WriteLine("\n \n ");
 
 
 
@@ -58,11 +58,11 @@ namespace WarGame_UI
 
             #region Silah Üretim Süreci  : 
 
-            //Rambo_K500 rambo_500 = new Rambo_K500();
-            //silah.GetWeaphoneDetail(rambo_500);
+            Rambo_K500 rambo_500 = new Rambo_K500();
+            silahservice.GetWeaphoneDetail(rambo_500);
 
-            //Altipatlar_A300 altipatlar = new Altipatlar_A300();
-            //silah.GetWeaphoneDetail(altipatlar);
+            Altipatlar_A300 altipatlar = new Altipatlar_A300();
+            silahservice.GetWeaphoneDetail(altipatlar);
 
 
 
